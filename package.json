@@ -1,0 +1,17 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "author": "JJONG",
+  "license": "",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "start": "tsc-watch -onSucces \"node dist/index.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.2.9"
+  }
+}
