@@ -6,6 +6,7 @@
   "author": "JJONG",
   "license": "MIT",
   "dependencies": {
+    "crypto-js": "^4.0.0",
     "typescript": "^4.2.4"
   },
   "scripts": {
