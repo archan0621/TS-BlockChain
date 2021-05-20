@@ -4,7 +4,7 @@
   "description": "Learning Typescript by making a Blockchain with it",
   "main": "index.js",
   "author": "JJONG",
-  "license": "",
+  "license": "MIT",
   "dependencies": {
     "typescript": "^4.2.4"
   },
