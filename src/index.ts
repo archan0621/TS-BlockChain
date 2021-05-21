@@ -1,4 +1,5 @@
 import * as CryptoJS from "crypto-js";
+import { createNew } from "typescript";
 
 class Block {
   
@@ -112,7 +113,12 @@ createNewBlock("tenth block");
 createNewBlock("eleventh block");
 createNewBlock("twelve block");
 createNewBlock("Thirty block");
-createNewBlock("fourty Block");
+createNewBlock("fourty block");
+createNewBlock("fifty block");
+createNewBlock("sixty block");
+createNewBlock("eighty block");
+createNewBlock("ninety block");
+createNewBlock("twenty block");
 
 console.log(blockchain);
 
