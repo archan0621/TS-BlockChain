@@ -104,6 +104,15 @@ createNewBlock("second block");
 createNewBlock("third block");
 createNewBlock("fourth block");
 createNewBlock("fifth block");
+createNewBlock("sixth block");
+createNewBlock("seventh block"); 
+createNewBlock("eigth block");
+createNewBlock("nineth block");
+createNewBlock("tenth block");
+createNewBlock("eleventh block");
+createNewBlock("twelve block");
+createNewBlock("Thirty block");
+createNewBlock("fourty Block");
 
 console.log(blockchain);
 
